@@ -1,6 +1,13 @@
 # TODO
 
-This project provide a Todo list where user can create, delete and set as completed tasks. Besides, the list can be filtered by either completed or pending tasks. 
+This project provide a Todo list where user can create, delete and set as completed tasks. Besides, the list can be filtered by either completed or pending tasks.  
+
+## Demo:
+
+[Todo List](https://gmontoya2483.github.io/todolist/#/)
+
+
+## Scripts:
 
 ```json5
 "scripts" : {
